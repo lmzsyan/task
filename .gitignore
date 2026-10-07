@@ -1,0 +1,11 @@
+# 依赖包文件夹，不要上传
+node_modules/
+# vite打包产物
+dist/
+# 本地环境变量
+.env
+# IDE缓存
+.idea/
+.vscode/
+# 日志
+*.log
